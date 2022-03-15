@@ -1,2 +1,2 @@
 # atom-tomorrow
-color scheme neovim
+Color scheme base on atom-dark and base16
