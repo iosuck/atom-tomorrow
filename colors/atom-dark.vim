@@ -34,7 +34,7 @@ hi DiffChange      guifg=#242526 guibg=#242526
 hi DiffDelete      guifg=#242526 guibg=#242526
 hi DiffText        guifg=#242526 guibg=#242526
 
-hi Directory       guifg=#AAAAAA               gui=none
+hi Directory       guifg=#A8FF60               gui=none
 hi Error           guifg=#A8FF60 guibg=#1E0010
 hi ErrorMsg        guifg=#92C5F7 guibg=#232526 gui=none
 hi Exception       guifg=#DAD085               gui=none
