@@ -84,7 +84,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi VertSplit guifg=#34353b guibg=NONE gui=NONE cterm=NONE
   hi WildMenu guifg=#ffffff guibg=#0f5bca gui=NONE cterm=NONE
   hi IncSearch guifg=none guibg=#fef937 gui=NONE cterm=NONE
-  hi Search guifg=#ffffff guibg=#fc56de gui=NONE cterm=NONE
+  hi Search guifg=#ffffff guibg=#6919e0 gui=NONE cterm=NONE
   hi Visual guifg=NONE guibg=#43454b gui=NONE cterm=NONE
   hi DiffAdd guifg=#b1faeb guibg=#1e2a28 gui=NONE cterm=NONE
   hi DiffChange guifg=#ffa14f guibg=NONE gui=NONE cterm=NONE
@@ -100,7 +100,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
   hi Number guifg=#d9c668 guibg=NONE gui=NONE cterm=NONE
   hi SpecialComment guifg=#aeb7c0 guibg=NONE gui=NONE cterm=NONE
   hi String guifg=#ff8a7a guibg=NONE gui=NONE cterm=NONE
-  hi Title guifg=#9d7db3 guibg=NONE gui=NONE cterm=NONE
+  hi Title guifg=#e4ed91 guibg=NONE gui=NONE cterm=NONE
   hi Todo guifg=#aeb7c0 guibg=NONE gui=bold cterm=bold
   hi Underlined guifg=#6bdfff guibg=NONE gui=underline cterm=underline
   hi SpellBad guifg=NONE guibg=NONE gui=undercurl ctermfg=NONE ctermbg=NONE cterm=undercurl
